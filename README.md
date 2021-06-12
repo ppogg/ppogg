@@ -4,7 +4,7 @@
 
 ### 我是平头哥，一个喜欢记录生活的学生，这里，是我的伊甸园~
 <div>
-<img align="right" height="250px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
+<img align="right" height="200px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
 </div>
 
 <p align="left">
