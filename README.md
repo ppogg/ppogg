@@ -1,11 +1,12 @@
 <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  pengtougu. 
 
-<div>
-<img align="right" alt="GIF" height="250px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
-</div>
 
 
 ### 我是平头哥，一个喜欢记录生活的学生，这里，是我的伊甸园~
+<div>
+<img align="right" height="250px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
+</div>
+
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=pengtougu&&show_icons=true&title_color=66ffff&icon_color=7a34f9&text_color=009999&bg_color=333366& theme=radical"/>
 </p>
