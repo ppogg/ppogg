@@ -25,7 +25,7 @@
 <div>
 <img align="right" alt="GIF" height="120px" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2757967338,3675478352&fm=26&gp=0.jpg"/>
 </div>
-### 与此同时，我也有其他的博客喔，欢迎大家关注!💻📌
+###    与此同时，我也有其他的博客喔，欢迎大家关注!💻📌
 
 - ➡️ [平头哥的知乎首页💛](https://www.zhihu.com/people/chenxiangrong)
 - ➡️[平头哥的CSDN博客💛](https://blog.csdn.net/weixin_45829462?spm=1001.2101.3001.5343&type=blog)
