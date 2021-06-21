@@ -17,6 +17,9 @@
 - 💡   我擅长用python编程，又是也会用C++
 - 👩 我是程序男，但是俺有女朋友哈哈
 - 🤣 希望能在这条路上遇到更多大神和朋友，以后请多多指教~ 😁
+  
+### Things I code with
+React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 
 ### 我很喜欢听音乐，喜欢打球，更喜欢探险. 🎼🎸🎶   →   Spotify Playing 🎧👀
 
