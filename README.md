@@ -24,7 +24,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="baidu" src="https://img.shields.io/twitter/url?color=white&label=baidu&logo=baidu&logoColor=white&style=flat-square" />
+  <img alt="baidu" src="color=white&label=baidu&logo=baidu&logoColor=white&style=flat-square" />
   <img alt="arvix" src="https://img.shields.io/twitter/url?color=red&label=arvix&logo=arvix&logoColor=red&style=flat-square" />
   <img alt="centos" src="https://img.shields.io/twitter/url?color=red&label=centos&logo=centos&logoColor=red&style=flat-square" />
   <img alt="Raspberry%20Pi" src="https://img.shields.io/twitter/url?color=red&label=Raspberry%20Pi&logo=Raspberry%20Pi&logoColor=red&style=flat-square" />
