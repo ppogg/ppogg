@@ -65,7 +65,7 @@
       <td><a href="https://github.com/pengtougu/ncnn-yolov4-int8"><b>ncnn-yolov4-int8</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
