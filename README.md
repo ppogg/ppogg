@@ -61,8 +61,17 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pengtougu/Retinaface_Ghost?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pengtougu/Retinaface_Ghost?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  <tr>
+      <td><a href="https://github.com/pengtougu/ncnn-yolov4-int8"><b>ncnn-yolov4-int8</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pengtougu/ncnn-yolov4-int8?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
+
+	<br>
 
 ### 我很喜欢听音乐，喜欢打球，更喜欢探险. 🎼🎸🎶   →   Spotify Playing 🎧👀
 
