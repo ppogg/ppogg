@@ -25,13 +25,13 @@
   <img alt="Google" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="baidu" src="https://img.shields.io/badge/baidu-%20-white?color=white&logo=baidu&logoColor=white&style=flat-square" />
-  <img alt="arvix" src="https://img.shields.io/badge/arvix-%20-red?color=red&label=arvix&logo=arvix&logoColor=red&style=flat-square" />
-  <img alt="centos" src="https://img.shields.io/badge/centos-%20-red?color=red&label=centos&logo=centos&logoColor=red&style=flat-square" />
-  <img alt="Raspberry%20Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%20-red?color=red&label=Raspberry%20Pi&logo=Raspberry%20Pi&logoColor=red&style=flat-square" />
-  <img alt="vim" src="https://img.shields.io/badge/vim-%20-green?color=green&label=vim&logo=vim&logoColor=green" />
-  <img alt="python" src="https://img.shields.io/badge/python-%20-yellow?color=yellow&label=python&logo=python&logoColor=yellow" />
-  <img alt="pytorch" src="https://img.shields.io/badge/pytorch-%20-red?color=red&label=pytorch&logo=pytorch&logoColor=red&style=flat-square" />
-  <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%20-orange?color=orange&label=tensorflow&logo=tensorflow&logoColor=orange&style=flat-square" />
+  <img alt="arvix" src="https://img.shields.io/badge/arvix-%20-white?color=white&label=arvix&logo=arvix&logoColor=red&style=flat-square" />
+  <img alt="centos" src="https://img.shields.io/badge/centos-%20-white?color=white&label=centos&logo=centos&logoColor=white&style=flat-square" />
+  <img alt="Raspberry%20Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%20-white?color=red&label=Raspberry%20Pi&logo=Raspberry%20Pi&logoColor=red&style=flat-square" />
+  <img alt="vim" src="https://img.shields.io/badge/vim-%20-white?color=green&label=vim&logo=vim&logoColor=green" />
+  <img alt="python" src="https://img.shields.io/badge/python-%20-white?color=yellow&label=python&logo=python&logoColor=yellow" />
+  <img alt="pytorch" src="https://img.shields.io/badge/pytorch-%20-white?color=red&label=pytorch&logo=pytorch&logoColor=red&style=flat-square" />
+  <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%20-white?color=orange&label=tensorflow&logo=tensorflow&logoColor=orange&style=flat-square" />
   <img alt="mxnet" src="https://img.shields.io/badge/mxnet-%20-white?color=white&label=mxnet&logo=mxnet&logoColor=white&style=flat-square" />
 </p>
 
