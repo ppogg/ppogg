@@ -32,7 +32,7 @@
   <img alt="python" src="https://img.shields.io/badge/python-%20-white?color=yellow&label=python&logo=python&logoColor=yellow" />
   <img alt="pytorch" src="https://img.shields.io/badge/pytorch-%20-white?color=red&label=pytorch&logo=pytorch&logoColor=red&style=flat-square" />
   <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%20-white?color=orange&label=tensorflow&logo=tensorflow&logoColor=orange&style=flat-square" />
-  <img alt="mxnet" src="https://img.shields.io/badge/mxnet-%20-red?color=white&label=mxnet&logo=mxnet&logoColor=white&style=flat-square" />
+  <img alt="mxnet" src="https://img.shields.io/badge/mxnet-%20-red?color=red&label=mxnet&logo=mxnet&logoColor=red&style=flat-square" />
 </p>
 
 ### 我很喜欢听音乐，喜欢打球，更喜欢探险. 🎼🎸🎶   →   Spotify Playing 🎧👀
