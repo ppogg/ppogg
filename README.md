@@ -18,7 +18,8 @@
 - 👩 我是程序男，但是俺有女朋友哈哈
 - 🤣 希望能在这条路上遇到更多大神和朋友，以后请多多指教~ 😁
   
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
+	
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -35,7 +36,7 @@
   <img alt="mxnet" src="https://img.shields.io/badge/mxnet-%20-red?color=red&label=mxnet&logo=mxnet&logoColor=red&style=flat-square" />
 </p>
   
-<h3>Open source projects</h3>
+<h2>Open source projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -70,8 +71,6 @@
     </tr>
   </tbody>
 </table>
-
-	<br>
 
 ### 我很喜欢听音乐，喜欢打球，更喜欢探险. 🎼🎸🎶   →   Spotify Playing 🎧👀
 
