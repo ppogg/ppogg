@@ -88,6 +88,6 @@
 
 ## Connect with me and Grab a Coffee! 🙋‍♀️🥤    
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 21 June, 14:07 CEST<br /><a href="https://github.com/pengtougu/pengtougu">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 14:07 CEST<br /><a href="https://github.com/pengtougu/pengtougu">Create your own here!</a></p>
 <p align="center"><img src="https://img.shields.io/conda/pn/conda-forge/python" /> <img alt="Stars" src="https://img.shields.io/symfony/i/stars/825be328-29f8-44f7-a750-f82818ae9111"/> <img alt="License" src="https://img.shields.io/crates/l/rustc-serialize/0.3.24?style=flat-square&labelColor=343b41"/></p>
 	
