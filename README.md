@@ -8,7 +8,7 @@
 </div>
 
 <p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=pengtougu&&show_icons=true&title_color=66ffff&icon_color=7a34f9&text_color=009999&bg_color=333366& theme=radical"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=ppogg&&show_icons=true&title_color=66ffff&icon_color=7a34f9&text_color=009999&bg_color=333366& theme=radical"/>
 </p>
 
 - 🔭 在本科的时候，我和同学组队一起打比赛，也是在那时候，接触了机器学习并为它着迷🤖
