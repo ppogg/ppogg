@@ -2,7 +2,7 @@
 
 
 
-### 我是平头哥，一个喜欢记录生活的学生，这里，是我的伊甸园~  
+### Hi, I’m pogg, a student who likes to record life, and here is my Garden of Eden~
 <div>
 <img align="right" height="190px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
 </div>
@@ -11,12 +11,11 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=ppogg&&show_icons=true&title_color=66ffff&icon_color=7a34f9&text_color=009999&bg_color=333366& theme=radical"/>
 </p>
 
-- 🔭 在本科的时候，我和同学组队一起打比赛，也是在那时候，接触了机器学习并为它着迷🤖
-- 🌱 在读研期间，我选择了深度学习作为研究方向，我相信在这条路上会遇到很多有趣的人和事🤣
-- 👯  研二期间，我在广州实习，并在期间记录自己有趣的实验
-- 💡   我擅长用python编程，又是也会用C++
-- 👩 我是程序男，但是俺有女朋友哈哈
-- 🤣 希望能在这条路上遇到更多大神和朋友，以后请多多指教~ 😁
+- 🔭 When I was in undergraduate, I teamed up with my classmates to attend competition. At that time I was exposed to machine learning and was fascinated by it.🤖
+- 🌱 During graduate school, I chose deep learning as my research direction. I believe that there will be many interesting people and things on this way.🤣
+- 👯 During the second year of graduate school, I have practiced in Guangzhou and recorded my own interesting experiments during the period.
+- 💡  I like to program by python and C++
+- 🤣 Hope to meet more friends. Nice to meet you~ 😁
   
 <h2>Things I code with</h2>
 	
@@ -87,10 +86,10 @@
 <img align="right" alt="GIF" height="120px" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2757967338,3675478352&fm=26&gp=0.jpg"/>
 </div>
   
-### 与此同时，我也有其他的博客喔，欢迎大家关注!💻📌
+### At the same time, I also have other blogs, welcome to pay attention!💻📌
 
-- ➡️ [平头哥的知乎首页💛](https://www.zhihu.com/people/chenxiangrong)
-- ➡️[平头哥的CSDN博客💛](https://blog.csdn.net/weixin_45829462?spm=1001.2101.3001.5343&type=blog)
+- ➡️ [pogg's home page in zhihu💛](https://www.zhihu.com/people/chenxiangrong)
+- ➡️ [pogg's home page in CSDN💛](https://blog.csdn.net/weixin_45829462?spm=1001.2101.3001.5343&type=blog)
 
 
 ## Connect with me and Grab a Coffee! 🙋‍♀️🥤    
