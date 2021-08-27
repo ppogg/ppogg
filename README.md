@@ -78,7 +78,7 @@
   </tbody>
 </table>
 
-### 我很喜欢听音乐，喜欢打球，更喜欢探险. 🎼🎸🎶   →   Spotify Playing 🎧👀
+### I like listening to music, playing ball, and like to adventurous more. 🎼🎸🎶   →   Spotify Playing 🎧👀
 
 
 ---
