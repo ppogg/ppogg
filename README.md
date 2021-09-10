@@ -48,7 +48,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ppogg/YOLOv5-Lite"><b>shufflev2-yolov5</b></a></td>
+      <td><a href="https://github.com/ppogg/YOLOv5-Lite"><b>YOLOv5-Lite</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ppogg/YOLOv5-Lite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ppogg/YOLOv5-Lite?style=flat-square&labelColor=343b41"/></td>
