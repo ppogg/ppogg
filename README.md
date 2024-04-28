@@ -1,8 +1,8 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  pogg. 
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  I'm  Xiangrong Chen. 
 
 
 
-### Hi, I’m pogg, a student who likes to record life, and here is my Garden of Eden~
+### Hi, I’m Xiangrong Chen, a student who likes to record life, and here is my Garden of Eden~
 <div>
 <img align="right" height="190px" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1410335010,2761093436&fm=26&gp=0.jpg"/>
 </div>
@@ -88,8 +88,8 @@
   
 ### At the same time, I also have other blogs, welcome to pay attention!💻📌
 
-- ➡️ [pogg's home page in zhihu💛](https://www.zhihu.com/people/chenxiangrong)
-- ➡️ [pogg's home page in CSDN💛](https://blog.csdn.net/weixin_45829462?spm=1001.2101.3001.5343&type=blog)
+- ➡️ [Xiangrong Chen's home page in zhihu💛](https://www.zhihu.com/people/chenxiangrong)
+- ➡️ [Xiangrong Chen's home page in CSDN💛](https://blog.csdn.net/weixin_45829462?spm=1001.2101.3001.5343&type=blog)
 
 
 ## Connect with me and Grab a Coffee! 🙋‍♀️🥤    
